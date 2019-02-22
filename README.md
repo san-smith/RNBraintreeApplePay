@@ -1,6 +1,8 @@
 
 # react-native-braintree-apple-pay
 
+**This repository is no longer supported. Please visit [this repo](https://github.com/digital-design-nyc/react-native-braintree-apple-pay)**
+
 ## Getting started
 
 Run 
